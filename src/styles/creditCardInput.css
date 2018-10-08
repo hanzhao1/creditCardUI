@@ -1,0 +1,19 @@
+.incorrectInput{
+  border-width: 2px;
+  border-style: inset;
+  border-color: red;
+}
+
+.incorrectInput:focus{
+  outline: none;
+}
+
+.inputForm{
+  margin: 10px;
+}
+
+.dateValidation{
+  margin: 10px;
+  border-radius: 5px;
+  width: 45%;
+}
